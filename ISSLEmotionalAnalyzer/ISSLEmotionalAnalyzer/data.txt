@@ -1,0 +1,12 @@
+{
+     "customerName" : "Asaolu Damilola",
+     "customerEmail":"damilolaasaolu@gmail.com",
+     "customerJobTitle":"Software Engineer",
+     "customerPhoneNum":"09090909090",
+
+
+
+
+
+
+}
